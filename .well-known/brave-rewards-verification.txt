@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ellamurii.github.io
+Token: 5f3e7847ded2c5af8e6ebad23866e45d15da307f257e284df87c2a762ff183e5
